@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1720979294:AAHLqSSxFeISJ2vAeuIu-M-ZNGQVhbEBYB4"
+    APP_ID = "QIWI"
+    API_HASH = " 0253e653fbb98f2b459ed41f3dfae742 "
+    DATABASE_URL = "postgres://xjganqafgewuxj:89b354c4cafb737b4415f76db3ece2c78b9cfed621792aeab69adc8d0a205e73@ec2-52-21-252-142.compute-1.amazonaws.com:5432/d3q7u9uiegcbl"
+    SUDO_USERS = "753303004" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
